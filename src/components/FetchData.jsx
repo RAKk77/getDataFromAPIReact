@@ -12,8 +12,8 @@ const FetchData = () => {
         style={{ minHeight: "80vh" }}
       >
         <div className="text-center">
-          <div className="border text-primary" role="status">
-            <div className="loader"></div>;
+          <div className=" text-primary" role="status">
+            <div className="loader"></div>
           </div>
         </div>
       </div>
